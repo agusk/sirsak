@@ -2,6 +2,10 @@
 
 Simple OS for learning
 
+## Usage
+
+Please read my article (written in Indonesia language), http://blog.aguskurniawan.net/post/Membuat-Sistem-Operasi-Sederhana.aspx
+
 
 ## License
 
